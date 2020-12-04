@@ -1,5 +1,6 @@
-# scs_dfe_edu
-**UNDER DEVELOPMENT**
+This code is for the Raspberry Pi Zero based qir quality sensor board piloted in March 2019 by open-seneca in Nairobi, Kenya.
+
+# based on scs_dfe_edu by [South Coast Science](https://github.com/south-coast-science)
 
 Environmental sampling abstractions for the South Coast Science educational board.
 
